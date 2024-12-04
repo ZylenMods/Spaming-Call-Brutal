@@ -5,7 +5,7 @@
 $ pkg update && pkg upgrade
 $ pkg install git
 $ pkg install php
-$ git clone https://github.com/ZylenMods/Spaming-Call-Brutal
+$ git clone https://github.com/ZylenMods/spaming-call
 ```
 ## run
 ```php
