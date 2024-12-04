@@ -9,6 +9,6 @@ $ git clone https://github.com/ZylenMods/Spaming-Call-Brutal
 ```
 ## run
 ```php
-$ cd spam-call
+$ cd spaming-call
 $ php run.php
 ```
